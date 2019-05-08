@@ -11,4 +11,4 @@
 
 NOTE!::
 there was a small bug in the sense that the automatic adjustment mode works "too fastly" so that it doesn't allow enough time, 
-for the newly acquired barometric measurements to "settle-down" and change the actualAirpressure (it means that typically when fan speed increases => the airpressure should have been allowed to settle down to the new value little bit more...)
+for the newly acquired barometric measurements to "settle-down" and change the actualAirpressure (it means that typically when fan speed increases => the airpressure should have been allowed to settle down to the new value little bit more, because pressure changes aren't that fast typically...)
